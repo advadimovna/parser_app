@@ -1,11 +1,6 @@
-#https://cars.av.by/filter
-require 'thread/pool'
-require 'curb'
 require 'nokogiri'
 require 'sqlite3'
-require 'pry'
 require 'time'
-require 'open-uri'
 require 'eventmachine'
 require 'em-http-request'
 require 'byebug'
